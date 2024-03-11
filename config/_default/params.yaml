@@ -1,0 +1,10 @@
+homeInfoParams:
+  Title: Hi there 👋
+  Content: Welcome to my blog
+socialIcons:
+  - name: Github
+    url: "https://github.com/yangyanting233"
+ShowReadingTime: true
+ShowCodeCopyButtons: true
+showtoc: true
+ShowBreadCrumbs: true

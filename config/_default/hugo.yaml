@@ -1,0 +1,9 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: Yanting Yang's Blog
+theme: ["PaperMod"]
+outputs:
+  home:
+    - HTML
+    - JSON # necessary for search
+sectionPagesMenu: main
