@@ -9,6 +9,10 @@ homeInfoParams:
 socialIcons:
   - name: Github
     url: "https://github.com/yangyanting233"
+  - name: Github
+    url: "https://github.com/233yeee"
+  - name: googlescholar
+    url: "https://scholar.google.com/citations?hl=en&user=rbRk4Z4AAAAJ"
 ShowReadingTime: true
 ShowCodeCopyButtons: true
 showtoc: true

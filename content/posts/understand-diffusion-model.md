@@ -1,7 +1,7 @@
 ---
 title: Understand Diffusion Model
 author: Yanting Yang
-date: '2024-03-11'
+date: '2024-01-19'
 lastmod: '2024-03-11'
 math: true
 ---
