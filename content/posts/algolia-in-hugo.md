@@ -5,9 +5,9 @@ date: '2024-03-12'
 lastmod: '2024-03-12'
 ---
 
-## Overview
-
 [hugo-algolia](https://github.com/replicatedhq/hugo-algolia) was used in some tutorials and ranked first if you search in Google  but this package has not been updated for many years. [Static search with Algolia and Hugo 2](https://harrycresswell.com/writing/hugo-algolia-2/) introduced the integration of Algolia from scratch but the results were not satisfying and the procedures were still quite complicated. [DocSearch](https://docsearch.algolia.com/) shows up as a populer Algolia search for developer docs which is easy and free. This article introduces how to implement DocSearch in Hugo.
+
+<!--more-->
 
 The Algolia official document is at [How to install InstantSearch.js](https://www.algolia.com/doc/guides/building-search-ui/installation/js/). The DocSearch official document is at [Getting Started](https://docsearch.algolia.com/docs/DocSearch-v3).
 
