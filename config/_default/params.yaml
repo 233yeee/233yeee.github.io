@@ -4,8 +4,8 @@ editPost:
   Text: "Suggest Changes" # edit text
   appendFilePath: true # to append file path to Edit link
 homeInfoParams:
-  Title: Hi there 👋
-  Content: Welcome to my blog
+  Title: 👋 Welcome to my blog
+  Content: Thanks [Lil'Log](https://lilianweng.github.io/) which provide a good example of writing blogs.
 socialIcons:
   - name: Github
     url: "https://github.com/yangyanting233"
