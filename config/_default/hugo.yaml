@@ -1,5 +1,6 @@
-baseURL: https://example.org/
+baseURL: https://233yeee.com/
 languageCode: en-us
+timeZone: Canada/Pacific
 title: Yanting Yang's Blog
 theme: ["PaperMod"]
 outputs:
@@ -7,3 +8,15 @@ outputs:
     - HTML
     - JSON # necessary for search
 sectionPagesMenu: main
+markup:
+  goldmark:
+    extensions:
+      passthrough:
+        delimiters:
+          block:
+          - - $$
+            - $$
+          inline:
+          - - $
+            - $
+        enable: true

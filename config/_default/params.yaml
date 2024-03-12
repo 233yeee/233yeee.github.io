@@ -1,3 +1,8 @@
+dateFormat: "2006-01-02"
+editPost:
+  URL: "https://github.com/233yeee/233yeee.github.io/tree/main/content"
+  Text: "Suggest Changes" # edit text
+  appendFilePath: true # to append file path to Edit link
 homeInfoParams:
   Title: Hi there 👋
   Content: Welcome to my blog
